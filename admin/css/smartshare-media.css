@@ -1,0 +1,138 @@
+@media screen and (max-width:1470px){
+	.ss-data-main .ss-data-row .ss-data-col:last-child {width: 25%; }
+	.ss-data-main .ss-data-row .ss-data-col span{font-size: 14px;}
+	.ss-container table{margin: 10px 15px 40px 15px;}
+	.dots-header .dots-header-right{width: 85%;}
+	.setting_container{width: 96%}
+}
+
+@media screen and (max-width:1250px){
+	.ss-data-main .ss-data-inner{display: inline-block;}
+	.ss-data-main .ss-data-row{display: block; width: 100%;}
+	.ss-data-main .ss-data-row .ss-data-col{display: inline-block; vertical-align: middle; padding: 10px 0; box-sizing: border-box; width: 13.5%;}
+	.ss-data-main .ss-data-row .ss-data-col:last-child {width: 100%; display: block; margin: 0 auto; text-align: center; }
+	.schedule_settings_container .ss-data-main .ss-data-row .ss-data-col{display: inline-block; vertical-align: middle; padding: 10px 0; box-sizing: border-box; width: 16%;}
+	.schedule_settings_container .ss-data-main .ss-data-row .ss-data-col:last-child {width: 100%; display: block; margin: 0 auto; text-align: center; }
+	.ss-container table{width: 45%}
+	.setting_container{width: 95%}
+	.ss-share .ss-share-buttons a{margin-bottom: 10px;}
+}
+
+@media screen and (max-width:1024px){
+	.dotstore_plugin_sidebar {width: 100%;margin-top: 10px; margin-left: 0; }
+	.ss-container{width: 100%; max-width: 100%;}
+	.dots-header .dots-header-right{ width: 80%;}
+	.dotstore_plugin_sidebar .video-detail{padding-top: 5px;}
+	.video-detail ul li{margin-bottom: 12px;}
+}
+@media screen and (min-width:	1200px) and (max-width:	1300px){
+	table#tbl-shipping-method tr td input#product_fees_conditions_values {width: 20em;}
+}
+
+@media screen and (max-width:	980px){
+	.dots-header-right .logo-detail strong{font-size: 28PX;}
+	.under-table table.table-outer tr td.ur-2 a{margin-bottom: 20px;}
+	.under-table table.table-outer tr td.ur-2 a{margin-bottom: 20px;}
+	.set h2{margin-top: 0;}
+	.set-right {width: 100%;float: left;text-align: left;margin-top: 20px;}
+	.search {float: none;}
+}
+
+@media screen and (max-width:768px){
+	.ss-data-main .ss-data-row .ss-data-col{width:24%}
+	.ss-data-main .ss-data-row{text-align: center;}
+	.schedule_settings_container .ss-data-main .ss-data-row .ss-data-col{width:24%}
+	.schedule_settings_container .ss-data-main .ss-data-row{text-align: center;}
+	.ss-container .ss-schedule-radio{display: block;margin-right: 0px; margin-top: 15px;}
+	.ss-container form{display: inline-block;width: 100%;}
+	#ss-schedule-form .ss-schedule-post-label{width: 50%;}
+	#ss-schedule-form .ss-schedule-post-field{width: 49%;}
+	.ss-share .ss-share-row .ss-share-disc,.ss-share .ss-share-row .ss-share-social{width: 100%;float: none;display: inline-block;}
+	.ss-share .ss-share-row .ss-share-disc{border-bottom: 1px solid #ccc; margin-bottom: 15px; padding-bottom: 15px;}
+	.setting_container,.ss-container table,.ss-container table.form-table{width: 95%;}
+	.setting_container .form-table th {padding-bottom: 20px; }
+	.setting_container .form-table tr td:last-child {padding: 0px 0px 10px; }
+	table.form-table+p.submit #submit{margin-left: 20px;}
+	.logo-main {display: block;width: 100%;box-sizing: border-box;}
+	.dots-header-right .logo-detail {width: 100%;margin-bottom: 20px;}
+	.dots-header-right .update-blog {float: left;margin-left: 20px;}
+	.menu-main ul li a{padding-left: 17px;padding-right: 17px;}
+	.ss-main-table table.table-outer tr td.fr-2 a.ab {margin-top: 20px;}
+	.under-table table.table-outer tr td.ur-2 p.block.bl {margin-left: 26px;}
+	.under-table table.table-outer tr td.ur-2 input#submit{width: 27% !important;}
+	.foot-rihgt {float: left;margin-top: 20px;width: 100%;}
+	.under-table table.table-outer tr td.ur-2 select { width: 100%;	}
+	.set input#submit {width: 24% !important;}
+	.dots-header .dots-header-right .logo-detail{width: 40%;}
+	.setting_container{width: 94%; }
+	.ss-container.schedule_settings_container #ss-schedule-form .ss-form-row .ss-schedule-post-field {padding: 15px 15px;}
+	.ss-container.schedule_settings_container #ss-schedule-form .ss-form-row .ss-schedule-post-field .ss-tooltip-container {width: 100%;margin: 10px 0 0 0;float: none;}
+	.ss-container.schedule_settings_container #ss-schedule-form .ss-form-row .ss-schedule-post-field .ss-schedule-post-block-box {float: none;width: 100%;}
+	.ss-container.schedule_settings_container #ss-schedule-form .ss-form-row .ss-schedule-post-label {padding: 15px 15px;}
+	.ss-container.schedule_settings_container .ss-tab-content.schedule-wrap #ss-schedule-form input.button.ss-schedule-form {margin: 15px 0 15px 15px;}
+	.ss-container.schedule_settings_container #ss-schedule-form .ss-form-row .ss-schedule-post-field .ss-schedule-post-tooltip-block-box {float: none;}
+}
+
+@media screen and (max-width:600px){
+	.ss-share .ss-share-row .ss-share-img{float: none; display: block; margin: 0 auto 15px;max-width: 100%;}
+	.ss-share .ss-share-row .ss-share-content{width: 100%; float: none;}
+	.dots-header .dots-header-right .logo-detail {width: 50%; }
+	.dots-header .dots-header-right {width: 75%; }
+}
+
+@media screen and (max-width:	559px){
+	.dots-header-right {width: 100%;display: block;}
+	.dots-header-right .logo-detail strong {font-size: 24PX;}
+	.menu-main ul li {width: 100% !important;margin: 0 auto;text-align: center;}
+	.tap {width: 100%;overflow: auto;}
+	.tap table.table-outer.tap-cas {min-width: 640px;}
+	.ss-main-table.none-blog {border-right: 1px solid #ddd;}
+	.ss-main-table.res-cl table.table-outer tr td {font-size: 15px !important;padding: 20px 0px 20px 10px !important;display: block;width: 100%;box-sizing: border-box;}
+	.ss-main-table.res-cl table.table-outer tr td.fr-1 {width: 100%;border-bottom: none;}
+	.ss-main-table.res-cl td.fr-2 {border-top: none !important;}
+	.ss-main-table table.table-outer tr td.fr-2 a.gb{margin-right: 0;}
+	.ss-main-table.res-cl table.table-outer tr td.fr-2 a.cb{margin-top: 20px;}
+	.search {margin-top: 20px;}
+	.under-table table.table-outer tr td.ur-1 {width: 85%;border-bottom: none;}
+	.under-table table.table-outer tr td {width: 85%;display: block;}
+	.ss-main-table table.table-outer tr td.fr-2 a{padding-right: 10px;padding-left: 0;}
+	.under-table table.table-outer tr td.ur-2 {    border-top: none;}
+	.ss-main-table table.table-outer tr td.fr-1 {width: 100%; border-bottom: none; }
+	.ss-main-table table.table-outer tr td {font-size: 15px !important; padding: 20px 0px 20px 10px !important; display: block; width: 100%; box-sizing: border-box; }
+	.ss-main-table table.table-outer tr td.fr-2 {border-top: none !important; }
+	.ss-container.schedule_settings_container #ss-schedule-form .ss-form-row {display: inline-block;}
+	.ss-container.schedule_settings_container #ss-schedule-form .ss-form-row .ss-schedule-post-label {width: 100%;display: block;padding: 10px 10px;border-right: 0;background: #eee;box-sizing: border-box;margin: 0;}
+	.ss-container.schedule_settings_container #ss-schedule-form .ss-form-row .ss-schedule-post-field {width: 100%;display: block;padding: 10px 10px;box-sizing: border-box;}
+	.ss-container.schedule_settings_container #ss-schedule-form .ss-form-row .ss-schedule-post-field .ss-tooltip-container label.ss-post-label {display: block;}
+	.ss-container.schedule_settings_container #ss-schedule-form .ss-form-row .ss-schedule-post-field .ss-tooltip-container .ss-categories.select2-container-multi {width: calc(100% - 35px);max-width: 100%;}
+	.ss-container.schedule_settings_container #ss-schedule-form .ss-form-row .ss-schedule-post-field select {width: 100%;}
+	.ss-container.schedule_settings_container .ss-tab-content.schedule-wrap #ss-schedule-form input.button.ss-schedule-form {margin: 10px 0 10px 10px;}
+}
+
+
+@media screen and (max-width:540px){
+	.ss-data-main .ss-data-row .ss-data-col{width:32%}
+	.schedule_settings_container .ss-data-main .ss-data-row .ss-data-col{width:32%}
+	.ss-container .ss-social-profile-list li .ss-social-account-user-list li{margin: 10px 8px 0px;}
+	.select2-container-multi .select2-choices{width: 100%;}
+	#ss-schedule-form .ss-schedule-post-label{margin-bottom: 15px;}
+	#ss-schedule-form .ss-schedule-post-label,#ss-schedule-form .ss-schedule-post-field{width: 100%;}
+	.ss-container .ss-post-categories .ss-categories.select2-container-multi{width: 75%;}
+	.ss-container .ss-image-priority{width: 100%;}
+	.ss-container .ss-schedule-radio {display: block; margin-top: 0px; margin-bottom: 15px; }
+	.ss-container .ss-schedule-radio:last-child {margin-bottom: 0; }
+	.ss-container table {margin: 10px 15px 40px 0px; }
+	.dots-header .dots-logo-main{display: block; width: 100%; text-align: center;}
+	.dots-header .dots-header-right {width: 100%; }
+	#dotsstoremain .button-dots{ padding-right: 20px;}
+}
+@media screen and (max-width:420px){
+	.ss-data-main .ss-data-row .ss-data-col{width:49%}
+	.schedule_settings_container .ss-data-main .ss-data-row .ss-data-col{width:49%}
+	.ss-container .ss-tab-ul li a{padding: 13px 22px;}
+	.setting_container, .ss-container table {width: 90%; }
+	.dots-header .dots-header-right {width: 100%; }
+	.dots-header .dots-header-right .logo-detail {width: 100%; text-align: center; padding: 0; }
+	#dotsstoremain .button-dots{width: 100%; float: none; margin: 24px auto 0; text-align: center; display: block; padding: 0;}
+	.ss-data-main a.button.resume_sharing.ss_pause_resume_schedule_btn.resume_btn{    margin-bottom: 10px;}
+}
